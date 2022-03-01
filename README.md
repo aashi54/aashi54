@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&height=60&width=1000&color=d1a52f&lines=Namaste+🙏;5%2B+years+of+experience;Full+Stack+Web+Developer;Always+ready+to+learn+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&size=30&duration=4000&center=true&vCenter=true&width=401&lines=Heyy+%F0%9F%91%8B;I+am+Asmita)](https://git.io/typing-svg)
 -------------
 I'm Asmita. I am currently pursuing BTech in Information Technology. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code.
 
