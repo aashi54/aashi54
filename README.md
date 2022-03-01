@@ -1,25 +1,19 @@
-@@ -1,20 +1,20 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&height=60&width=1000&color=d1a52f&lines=Namaste+🙏;5%2B+years+of+experience;Full+Stack+Web+Developer;Always+ready+to+learn+new+things)](https://git.io/typing-svg)
 -------------
-I'm Sumit, Senior Software Engineer at Turtlemint India 🇮🇳. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new. 
-```
-Programmer (noun): Someone who solves a problem you didn't know you had, in a way you don't understand. 😉
-```
+I'm Asmita. I am currently pursuing BTech in Information Technology. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code.
+
 ---------------------------
   <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
 </p>
 
-💻    &nbsp; Full Stack Developer.<br />
-✍🏻   &nbsp;  Decent competitive programming, DS, Algo, Designing skills.<br />
-🔭   &nbsp;  Currently exploring AWS.<br />
-🔭   &nbsp;  Currently exploring Devops and cloud tech (AWS, GCP, ANSIBLE, Docker, Kube etc).<br />
-👯    &nbsp; I’m interested in keeping up-to-date with latest technological developments.<br />
-🤔    &nbsp; I’m able to work with minimal supervision.<br />
-⚡️    &nbsp; I’m ready to take up new technical challenges.<br />
-⛳   &nbsp;  I write code in Java and do practice on Leetcode [https://leetcode.com/stj11/](https://leetcode.com/stj11/)<br />
-👀    &nbsp; You can find me on linkedin [https://www.linkedin.com/in/stj11bitd/](https://www.linkedin.com/in/stj11bitd/)<br />
-📫    &nbsp; How to reach me: jadiyaskj@gmail.com<br />
-🌏    &nbsp; Please Visit my Portfolio for more details -> [http://stjapps.in/](http://stjapps.in/)<br/>
+💻   &nbsp; Full Stack Developer.<br />
+✍🏻   &nbsp;  Decent data structure & alogrithm skills.<br />
+🔭   &nbsp;  Currently exploring React js.<br />
+⛳   &nbsp;  I write code in C++ and do practice on Leetcode [https://leetcode.com/Asmita_patidar/](https://leetcode.com/Asmita_patidar/)<br />
+👀   &nbsp; You can find me on linkedin [https://www.linkedin.com/in/asmita-patidar-56b461152/](https://www.linkedin.com/in/asmita-patidar-56b461152/)<br />
+📫   &nbsp; How to reach me: asmitapatidar2023@gmail.com<br />
+
 ---------------------------
 <div>
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074"><img src="https://camo.githubusercontent.com/d423cf12cc9ec53976db472d8844305e3f324418/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&amp;logo=javascript" style="max-width:100%;"></a>
