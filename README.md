@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F0B61F&size=30&duration=4000&center=true&vCenter=true&lines=Heyy+%F0%9F%91%8B)](https://git.io/typing-svg)
 -------------
-I'm Asmita. I am currently pursuing BTech in Information Technology. I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code.
+I'm Asmita. I am currently pursuing BTech in Information Technology.I really enjoy solving real-life problem and converting my thoughts and ideas into a working code.
 
 ---------------------------
   <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
