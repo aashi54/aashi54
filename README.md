@@ -7,9 +7,9 @@ Passionate explorer of code, unraveling the mysteries of technology and embracin
   <img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" height="300"/>
 </p>
 
-✍🏻   &nbsp;  Decent data structure & alogrithm skills.<br />
+✍🏻   &nbsp;  Decent in data structure & alogrithm.<br />
 💻   &nbsp;  Web Developer.<br />
-🔭   &nbsp;  Currently exploring React js.<br />
+🔭   &nbsp;  Currently exploring back-end development.<br />
 ⛳   &nbsp;  I write code in C++ and do practice on Leetcode [https://leetcode.com/Asmita_patidar/](https://leetcode.com/Asmita_patidar/)<br />
 👀   &nbsp;  You can find me on linkedin [https://www.linkedin.com/in/asmita-patidar-56b461152/](https://www.linkedin.com/in/asmita-patidar-56b461152/)<br />
 📫   &nbsp;  How to reach me: asmitapatidar2023@gmail.com<br />
